@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+  <Transactions>
+    <Transaction>2019/07/18 08:50:47.908,=C:\Users\Sod04\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2019/07/18 08:51:23.383,=G:\ProjetoPortal\PCBFT\ProjetoMapeamento\Unit2.pas</Transaction>
+    <Transaction>2019/07/18 08:51:53.378,G:\ProjetoPortal\PCBFT\ProjetoMapeamento\Unit2.pas=</Transaction>
+    <Transaction>2019/07/18 08:52:52.401,G:\ProjetoPortal\PCBFT\ProjetoMapeamento\Project2.dproj=C:\Users\Sod04\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2019/07/18 08:53:10.046,=G:\ProjetoPortal\PCBFT\ProjetoMapeamento\Unit2.pas</Transaction>
+  </Transactions>
+  <ProjectSortOrder AutoSort="0" SortType="0">
+    <File Path="Unit2.pas"/>
+    <File Path="Unit2.dfm"/>
+  </ProjectSortOrder>
+</BorlandProject>
